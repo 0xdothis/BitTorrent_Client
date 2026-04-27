@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      bencode:
+        specifier: ^0.9.0
+        version: 0.9.0
+
+packages:
+
+  bencode@0.9.0:
+    resolution: {integrity: sha512-vyB94M60TTU5S3fHv1pnlgMWpXVf0bIjniWQzKyCSXRRdAj17NNpew7ZM5meXAKHucMIuJELmZwiA2UW2ZxAAw==}
+
+snapshots:
+
+  bencode@0.9.0: {}
